@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X+sJbq3avF85C+PHAuoVmHLVlMaZqLdlnuPIz/JLir4=",
+  "Source": "DonutAPI.ApiService",
+  "BasePath": "_content/DonutAPI.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

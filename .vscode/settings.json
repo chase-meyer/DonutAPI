@@ -1,5 +1,0 @@
-{
-    "dotnetAcquisitionExtension.sharedExistingDotnetPath": "/usr/bin/dotnet",
-    "omnisharp.enableMsBuildLoadProjectsOnDemand": false,
-    "dotnet.defaultSolution": "DonutAPI.sln"
-}

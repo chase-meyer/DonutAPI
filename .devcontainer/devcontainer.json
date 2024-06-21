@@ -29,11 +29,13 @@
       ]
     }
   },
-  "postStartCommand": "bash /workspaces/DonutAPI/.devcontainer/script.sh",
-  "forwardPorts": [17224],
-  "portsAttributes": {
-    "17224": {
-      "protocol": "https"
-    }
-  }
+  "forwardPorts": [
+    // ApiService
+    7447,
+    // AppHost
+    17224,
+    // Web
+    7131
+  ],
+  "onCreateCommand": "bash /workspaces/DonutAPI/.devcontainer/on-create.sh > ~/on-create.log"
 }

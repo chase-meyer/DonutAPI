@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DonutAPI.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4797ce8e80137b5fd3f0d9e09be23e0a6016636")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68540052363449df6b5badabe63696cbb1e33483")]
 [assembly: System.Reflection.AssemblyProductAttribute("DonutAPI.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DonutAPI.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

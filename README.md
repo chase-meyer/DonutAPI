@@ -1,2 +1,2 @@
 # DonutAPI
-Playing around with .NET Aspire going to make a donut API for storing fancy donuts
+Playing around with .NET Aspire going to make a donut API for storing yummy donuts
